@@ -1,4 +1,4 @@
-# Q-Learning (warm-up project!)
+# Wumpus_Q-Learning (warm-up project!)
 Implementation of 5*5 Wumpus game using Q-Learning algorithm with python and javascript 
 
 There are 2 files, one is the implementation without graphics with python and the other one is implemented graphically with javascript.
